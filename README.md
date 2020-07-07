@@ -1,1 +1,1 @@
-# A2C_StarCraft2
+# A3C_StarCraft2
